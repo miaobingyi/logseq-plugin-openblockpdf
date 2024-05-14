@@ -1,0 +1,2 @@
+# logseq-plugin-openblockpdf
+使用电脑默认的pdf软件打开logseq中block中的pdf文件，便于结合数位板对pdf文件进行批注。
